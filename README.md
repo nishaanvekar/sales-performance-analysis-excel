@@ -28,5 +28,5 @@ Focus on margin improvement in high-sales regions.
 Protect top-performing revenue products.
 Optimize pricing strategy for low-margin products.
 ![Dashboard Screenshot](ClusterChart.png)
-![Dashboard Screenshot](lineChart.png)
+![Dashboard Screenshot](line_Chart.png)
 
