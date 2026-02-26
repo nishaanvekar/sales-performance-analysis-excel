@@ -27,6 +27,6 @@ Business Recommendations:
 Focus on margin improvement in high-sales regions.
 Protect top-performing revenue products.
 Optimize pricing strategy for low-margin products.
-![Dashboard Screenshot](ClusterChart.png)
+![Dashboard Screenshot](Cluster_Chart.png)
 ![Dashboard Screenshot](line_Chart.png)
 
